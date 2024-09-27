@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/front-end animation 101/links.md",
+                "file": "courses/clc python telegram bot 2021/Documentation.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses/front-end animation 101/links.md",
+                "file": "courses/clc python telegram bot 2021/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses/front-end animation 101/links.md",
+                "file": "courses/clc python telegram bot 2021/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses/front-end animation 101/links.md"
+                "file": "courses/clc python telegram bot 2021/Documentation.md"
               }
             }
           }
@@ -143,11 +143,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52f86bf5fb7b475a",
+  "active": "42a0b40241071687",
   "lastOpenFiles": [
+    "courses/clc python telegram bot 2021/Qilingan botlar.md",
+    "courses/clc python telegram bot 2021/Documentation.md",
+    "courses/clc python telegram bot 2021/Qo'llanma - Yangi proyekt yaratish.md",
+    "courses/clc python telegram bot 2021/Hush Kelibsiz!.md",
+    "Pasted image 20240927181224.png",
+    "Pasted image 20240927181204.png",
+    "Pasted image 20240927181151.png",
+    "courses/front-end animation 101/links.md",
+    "courses/clc python telegram bot 2021",
     "old projects/havaskor/programming ideas.md",
     "old projects/havaskor/havaskor.md",
     "old projects/havaskor/brainstorm.md",
@@ -169,11 +180,6 @@
     "teach yourself cs/computer systems.md",
     "teach yourself cs/distributed systems.md",
     "teach yourself cs/links from video.md",
-    "teach yourself cs/music.md",
-    "teach yourself cs/opensource.md",
-    "teach yourself cs/other.md",
-    "teach yourself cs/rust.md",
-    "teach yourself cs/security.md",
     "swesk",
     "old projects/matn.uz",
     "old projects",
@@ -182,7 +188,6 @@
     "courses/front-end animation 101",
     "streams/web3 nights",
     "streams/rust nights",
-    "streams/backend nights",
-    "projects/privacy"
+    "streams/backend nights"
   ]
 }
