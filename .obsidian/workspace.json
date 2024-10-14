@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/front-end animation 101/links.md",
+                "file": "competitive programming/videos reviews/Collin Galen - Candidate Master in 1 Year.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "competitive programming/videos reviews/Collin Galen - Candidate Master in 1 Year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "competitive programming/videos reviews/Collin Galen - Candidate Master in 1 Year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "files/Drawing 2024-09-27 18.18.52.excalidraw.md"
+                "file": "competitive programming/videos reviews/Collin Galen - Candidate Master in 1 Year.md"
               }
             }
           }
@@ -146,11 +148,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52f86bf5fb7b475a",
+  "active": "283019f4a54adca3",
   "lastOpenFiles": [
+    "competitive programming/videos i like.md",
+    "competitive programming/videos reviews/Collin Galen - Candidate Master in 1 Year.md",
+    "competitive programming/videos reviews",
+    "courses/front-end animation 101/links.md",
+    "competitive programming",
     "files/Drawing 2024-09-27 18.17.10.excalidraw.md",
     "files/Drawing 2024-09-27 18.18.52.excalidraw.md",
-    "courses/front-end animation 101/links.md",
     "Excalidraw/Drawing 2024-09-27 18.16.03.excalidraw.md",
     "Excalidraw",
     "files/Pasted image 20240927181545.png",
@@ -179,14 +185,10 @@
     "swesk/dive into the source code.md",
     "swesk/print oriented debugging.md",
     "swesk/the art of googling.md",
-    "swesk/introduction.md",
-    "teach yourself cs/coding.md",
     "swesk",
     "old projects/matn.uz",
     "old projects",
     "teach yourself cs",
-    "projects/privacy/methengr",
-    "courses/front-end animation 101",
-    "streams/web3 nights"
+    "projects/privacy/methengr"
   ]
 }
